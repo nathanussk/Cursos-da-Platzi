@@ -1,0 +1,48 @@
+mkdir + nome = criar uma pasta
+ls = confirir
+cd + nome = saber se ta dentro da pasta
+pwd = sobre a pasta
+touch + nome do arquivo = pra criar um arquivo dentro da pasta
+code + nome do arquivo = abrir o vscode com o arquivo
+ls -la = verificar
+git init = pra criar um repositorio
+cd .git = navergar pela pasta (so se quiser)
+-l = mostra lista mais longa
+-a = mostra coisas ocultas
+-- = palavra
+git status = mostra toda modifcação
+git add + nome do arquivo = pra add
+git rm -- cached + nome do arquivo = remover do unstage
+rm + nome do arquivo = deleta arquivo
+git commit -m "nome do arquivo" = subir o arquivo
+git add + . = add tudo oq tem
+git log = mostra tudo oq tem no repositorio
+
+git show = ver diferenças 
+git commit = pra ir pro editor de texto do cmd
+esq + :wq = pra sair eh 
+git diff = reparando cada commit
+
+git reset = para volta pra um commit 
+
+
+
+Git Push - subir as mudanças do repositorio local para o remoto
+
+Git Clone - Clona o repositorio remoto para o computador
+
+Git Fetch - baixas as mudanças do repositorio remoto para o local
+
+Git Merge - Junta as mudanças baixadas do repo remoto ao nosso diretório
+
+Git pull - É a junção do git fetch e git merge.
+
+
+
+
+ssh-keygen -t rsa -b 4096 -C + email = chave SSH
+
+Your identification has been saved in /c/Users/Nathan/.ssh/id_rsa.
+Your public key has been saved in /c/Users/Nathan/.ssh/id_rsa.pub.
+The key fingerprint is:
+SHA256:D8Emcb7pzaAoF+ytAHrSbK0B1ju9ZbqTrzl8wrq/ans nathangt83@gmail.com
