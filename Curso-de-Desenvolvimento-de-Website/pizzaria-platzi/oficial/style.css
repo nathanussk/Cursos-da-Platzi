@@ -1,0 +1,82 @@
+* {
+    font: 12px sans-serif;
+}
+
+body{
+    
+    /* fundo do site */
+    
+    background-image: url(imgs/FUNDO.png);
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-size: 100%;
+}
+
+h1{
+    font-size: 12px;
+}
+
+.botao {
+    width: 115px; /* define a largura */
+    height: 25px; /* define a altura */
+    background: #99cc41; /* define uma cor ou imagem para ser usada como fundo de tela */
+    padding: 10px; /* define a margem interna */
+    text-align: center; /* efine o alinhamento do texto, por exemplo, direita, esquerda ou centro */
+    border-radius: 5px; /* define o raio da borda, quanto maior o valor, mais arredondada */
+    color: white; /* define a cor do elemento */
+    font-weight: bold; /*specifica o nível de negrito do texto */
+}
+
+.home {
+    font-weight: bold;
+}
+
+.receitas {
+    font-weight: bold; 
+}
+
+header > nav {
+    float: right; /* coloca pra direita */
+}
+
+header > nav > a {
+    padding: 25px 10px;
+    text-decoration: none;
+    color: #000;
+}
+
+header {
+    margin-top: 25px;
+    height: 80px;
+}
+
+section {
+    text-align: center;
+}
+
+.logomarca {
+    width: 30%;
+}
+
+section > figure {
+    
+    /* icones de lado do outro */
+    
+    float: left;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* #home {
+    color: green;
+} */
