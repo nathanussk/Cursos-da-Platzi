@@ -1,0 +1,92 @@
+What is the meaning of CTO?
+JA FOI: b < CERTA
+
+What adjective can you use when a person can arrange things?
+ja foi: b < CERTA
+
+What are three good strategies to improve our professional profile?
+ja foi: b, a < CERTA
+
+What is an example of internet fraud?
+ja foi: a < CERTA
+
+What does a bizdev do?
+ja foi: b, a, c, d <<
+
+When can you use the words: discover, find, conclude?
+ja foi: a < CERTA
+
+When can you use the words: demonstrate, prove, test?
+ja foi: b, a, c < CERTA
+
+Who is a competitor?
+ja foi: a, b, c < CERTA
+
+What is the structure of a good email?
+ja foi: a, b < CERTA
+
+What is the meaning of CPC?
+ja foi: b, a, c < CERTA
+
+What is the meaning of PR?
+ja foi: b < CERTA
+
+What is the meaning of CEO?
+ja foi: a, b, c < CERTA
+
+What information should you include in a professional profile?
+ja foi: a < CERTA
+
+What can you study if you like numbers and logic?
+ja foi: a, b, c < CERTA
+
+Why is it easier to use Ruby?
+ja foi:  a, b < CERTA
+
+Which of these expressions can be used when starting a presentation?
+ja foi: b, a, c < CERTA
+
+What are the most common written ways of communication in the workplace?
+ja foi: b, a <<
+
+What skills should marketing professionals work on?
+ja foi: b < CERTA
+
+What can you study if you like businesses and social relationships?
+ja foi: a < CERTA
+
+What information should you include in your CV?
+ja foi: a, b, c,
+
+What is the meaning of CV?
+ja foi: b, a, c < CERTA
+
+In what department can a marketing expert work?
+ja foi: a < CERTA
+
+What adjective can you use when a person is always looking for new information?
+ja foi: a, b, c < CERTA
+
+Why is it important to work on one’s professional profile?
+ja foi: a, b < CERTA
+
+What type of language is PHP?
+ja foi: b, a < CERTA
+
+What is a customer persona?
+ja foi: a < CERTA
+
+What is a strategy when using English in a social network?
+ja foi: b, a <<
+
+What things should you consider when preparing for a job interview?
+ja foi: b, a, c, d <<
+
+What is the structure of a good presentation?
+ja foi: a, b, c < CERTA
+
+What adjective can you use when a person is sociable and friendly?
+ja foi: a < CERTA
+
+Why is it important to create content for our social networks?
+ja foi: a, b <<
