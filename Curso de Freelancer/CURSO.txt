@@ -1,0 +1,47 @@
+O que é importante que meu portfólio apresente?
+ja foi: a < CERTA
+
+Qual destas não é uma dica sobre gestão financeira de um freelancer?
+ja foi: e,a,b,d,c < CERTA
+
+O que eu não posso esquecer sobre produtividade?
+ja foi: b,d,a,e < CERTA
+
+Por que é importante fazer uma análise swot pessoal?
+ja foi: d,a,b << CERTA
+
+O que não pode faltar no seu espaço de trabalho?
+ja foi: d < CERTA
+
+Tudo bem se eu não declarar meus rendimentos, uma vez que sou freelancer e não tenho vínculo com uma empresa.
+ja foi: d,a << CERTA
+
+Por que você deve cuidar da sua saúde sendo freelancer?
+ja foi: a,d << CERTA
+
+Qual destas é uma desvantagem indicada por muitos freelancers?
+ja foi: a,d,c < ERRADA
+
+Devo seguir exatamente os mesmos horários que uma empresa tradicional?
+ja foi: b < CERTA
+
+Existe um modelo ideal de reunião com o cliente que deve ser adotado por todos?
+ja foi: a < CERTA
+
+O cenário político-econômico pode influenciar a busca por trabalhos num regime freelancer?
+ja foi: b < CERTA
+
+Criar uma rotina para buscar clientes atende, principalmente, qual dos receios de um freelancer?
+ja foi: a,c,b,d < CERTA
+
+Quando eu não devo usar meu próprio nome como marca?
+ja foi: b,a,c < CERTA
+
+Por que um contrato pode te ajudar numa relação profissional?
+ja foi: d < CERTA
+
+Posso usar meu currículo CLT normalmente como freelancer
+ja foi: b,a << CERTA
+
+Ao definir a sua tabela de preços, o que é fundamental?
+ja foi: c < CERTA
