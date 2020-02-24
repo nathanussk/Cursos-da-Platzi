@@ -1,0 +1,71 @@
+Crie uma função que recebe um objeto e adiciona a propriedade `timestamp` com a data atual
+JA FOI: a,b,c,d
+
+Dado um array de palavras, imprima na tela o array ordenado pela segunda letra de cada palavra
+JA FOI: a < CERTO
+
+Crie uma função que imprime na tela todos os parâmetros, com exceção dos dois primeiros
+ja foi: a,b,c,d
+
+Imprima na tela a URL atual
+ja foi: c,b,a,d
+
+rie uma função que receba um número e imprima na tela:
+
+“X é maior que 10” se o número for maior que 10
+“X é menor que 10” se o número for menor que 10
+“X” se o número for 10
+ja foi: a,b,c < certa
+
+Dado um array de números, imprima na tela se cada número é par ou ímpar
+ja foi: a,b,c,d
+
+Dada uma variável númerica, adicione +5 sem repetir a variável
+ja foi: a,b < CERTA
+
+Utilizando herança, crie uma classe chamada Quadrado que herda de Retangulo. A classe quadrado deve receber um só parâmetro no construtor (tamanho) e deve imprimir a área corretamente
+ja foi: a < CERTA
+
+Crie uma classe chamada Retangulo que recebe dois parâmetros no construtor (altura, largura). Crie um método chamado imprimeArea que, ao ser chamado, vai imprimir na tela a área do retângulo
+ja foi: a < CERTA
+
+Pergunte ao usuário qual seu nome e imprima na tela
+ja foi: b,d,c < CERTA
+
+mprima na tela quando o botão com ID `botao` for clicado
+ja foi: a,b,c < CERTA
+
+Utilizando a função fetch, faça um request para a URL https://api.ipdata.co/ e imprima na tela o resultado
+ja foi: a,b,c < CERTA
+
+Dado um array com 3 elementos e uma função que aceita múltiplos parâmetros, execute a função passando os números do array como parâmetros
+ja foi: a < CERTO
+
+Imprima na tela quando a página emitir o evento 'load'
+ja foi: a,b,c,d
+
+Dado um objeto com as propriedades {nome, idade, cidade, estado}, crie um novo objeto somente comas propriedades {nome, idade}
+ja foi: a,b < CERTA
+
+Baseado no arquivo index.html, localize os elementos no documento e, para cada elemento, imprima na tela o texto do elemento:
+
+Elemento com o ID “nome”
+Todos os elementos com a classe “imagem”
+Todos os elementos <li>
+ja foi: a,b,c < CERTA
+
+Dado um array de strings, crie um novo array com as strings que possuem o padrão de uma placa de carro AAA0000. Imprima o novo array na tela
+ja foi: a,b < CERTA
+
+Crie 3 funções que declaram variáveis dentro do corpo da função (uma com var, outra com let e a última com const)
+ja foi: a,b,c < CERTA
+
+Crie uma função que recebe 2 números e imprime na tela a soma dos dois. Se uma variável não for passada, o valor padrão deve ser 0
+ja foi: a < CERTA
+
+Mostre uma mensagem ao usuário dizendo "Olá, mundo!"
+ja foi: a,b,c,d
+
+Dadas 4 variáveis numéricas, realize as operações básicas de matemática (adição, subtração, divisão e multiplicação) com o número 5
+ja foi: a,b,c,d
+
